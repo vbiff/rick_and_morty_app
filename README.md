@@ -44,11 +44,11 @@
 ## 🗂 Структура проекта
 
 lib/
-├── models/            # Модели данных (CharacterModel)
-├── services/          # Работа с API (ApiService)
-├── provider/             # State management через InheritedWidget (ThemeProvider, CharacterProvider)
-├── screens/           # Экраны (HomeScreen, FavoritesScreen)
-└── main.dart          # Точка входа
+- ├── models/            # Модели данных (CharacterModel)
+- ├── services/          # Работа с API (ApiService)
+- ├── provider/             # State management через InheritedWidget (ThemeProvider, CharacterProvider)
+- ├── screens/           # Экраны (HomeScreen, FavoritesScreen)
+- └── main.dart          # Точка входа
 
 
 
